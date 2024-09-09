@@ -36,6 +36,8 @@ CLASSE E
 /24
 255.255.255.0
 11111111 11111111 11111111 00000000
+Network Address | Usable Host Range     | Broadcast Address:
+0.0.0.0         | 0.0.0.1 - 0.0.0.254   |	0.0.0.255
 
 /25
 255.255.255.128
